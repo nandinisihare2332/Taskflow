@@ -53,7 +53,7 @@ const Login = () => {
   return (
     <div className="auth-page">
       <div className="auth-card">
-        <h1>Task Manager</h1>
+        <h1>TaskFlow</h1>
 
         <p className="auth-subtitle">
           Login to manage your projects and tasks
