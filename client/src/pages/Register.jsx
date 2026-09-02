@@ -76,7 +76,7 @@ const Register = () => {
         <h1>Create Account</h1>
 
         <p className="auth-subtitle">
-          Create your Task Manager account
+          Create your TaskFlow account
         </p>
 
         {error && (
